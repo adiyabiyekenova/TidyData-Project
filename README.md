@@ -34,7 +34,7 @@ pip install pandas matplotlib seaborn jupyterlab
 ## 📂 Dataset Description
 The dataset used in this project represents **Federal R&D Budgets** over multiple years and their relationship with GDP.
 
-- 📌 **Source:** [Insert dataset source if applicable]
+- 📌 **Source:** Adapted from Github [https://github.com/rfordatascience/tidytuesday/tree/main/data/2019/2019-02-12]
 - 🔍 **Pre-processing Steps:**
   - Removed unnecessary columns and missing values.
   - Reshaped the data to ensure it follows tidy data principles.
