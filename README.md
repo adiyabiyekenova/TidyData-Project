@@ -20,7 +20,7 @@ pip install pandas matplotlib seaborn jupyterlab
 ### 🚀 Running the Notebook
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/your-username/TidyData-Project.git
+   git clone https://github.com/adiyabiyekenova/TidyData-Project.git
    cd TidyData-Project
    ```
 2. **Launch Jupyter Notebook:**
@@ -34,7 +34,7 @@ pip install pandas matplotlib seaborn jupyterlab
 ## 📂 Dataset Description
 The dataset used in this project represents **Federal R&D Budgets** over multiple years and their relationship with GDP.
 
-- 📌 **Source:** Adapted from Github [https://github.com/rfordatascience/tidytuesday/tree/main/data/2019/2019-02-12]
+- 📌 **Source:** [Adapted from Github](https://github.com/rfordatascience/tidytuesday/tree/main/data/2019/2019-02-12)
 - 🔍 **Pre-processing Steps:**
   - Removed unnecessary columns and missing values.
   - Reshaped the data to ensure it follows tidy data principles.
@@ -47,7 +47,7 @@ This project includes multiple visualizations:
 1. 📈 **R&D Budget Trends as % of GDP** - A line chart showing how department-wise budgets compare to GDP over time.
 2. 📊 **Total R&D Spending vs. GDP** - A dual-axis plot comparing the total budget with GDP growth.
 
-![Visualization Example](path/to/your/image.png)
+![Visualization Example]()
 
 ---
 
